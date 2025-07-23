@@ -1,5 +1,5 @@
 # Demographics and Morality Survey Analysis 📊
-This repository contains a data analysis project exploring the relationships between various demographic variables and responses to moral dilemmas. The project was part of my CMSC320: Introduction to Data Science course, and it is based on survey data collected from University of Maryland students.
+This repository contains a data analysis project exploring the relationships between various demographic variables and responses to moral dilemmas. The project was part of my CMSC320: Introduction to Data Science course, and it is based on survey data collected from students at the University of Maryland.
 
 ## Project Overview
 
@@ -47,12 +47,12 @@ This study rigorously analyzed the relationship between demographics and respons
 * **Pandas**: For data manipulation and cleaning.
 * **Matplotlib**: For data visualization.
 * **SciPy (stats)**: For statistical hypothesis testing.
-* **Jupyter Notebook (Google Colab)**: For interactive analysis and documentation.
+* **Google Colab**: For interactive analysis and documentation.
 
 ## How to View the Project
 
 1.  **Clone the Repository:**
-    ```bash
+    ```
     git clone https://github.com/arikgershman/survey-analysis-320.git
     cd survey-analysis-320
     ```
