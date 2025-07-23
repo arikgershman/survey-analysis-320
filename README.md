@@ -47,7 +47,7 @@ This study rigorously analyzed the relationship between demographics and respons
 * **Pandas**: For data manipulation and cleaning.
 * **Matplotlib**: For data visualization.
 * **SciPy (stats)**: For statistical hypothesis testing.
-* **Google Colab**: For interactive analysis and documentation.
+* **Jupyter Notebook (Google Colab)**: For interactive analysis and documentation.
 
 ## How to View the Project
 
